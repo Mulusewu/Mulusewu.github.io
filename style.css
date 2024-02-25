@@ -1,0 +1,33 @@
+#body-of-sinup{
+    text-align: center;
+    background-color: cadetblue;
+}
+form{
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: blue;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 50px;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+}
+#name{
+    padding-bottom: 8px;
+    padding-left: 5px;
+}
+#email{
+    padding-bottom: 8px;
+    padding-left: 5px;
+}
+#password{
+    padding-bottom: 8px;
+    padding-left: 5px;
+}
